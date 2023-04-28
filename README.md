@@ -1,11 +1,3 @@
 # Visual-analysis-using-interactive-maps-in-the-problem-of-taxi-demand-forecasting
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/LhT5EGFoClk"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
-></iframe>
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/LhT5EGFoClk/0.jpg)](http://www.youtube.com/watch?v=LhT5EGFoClk "Визуализация прогнозов")
